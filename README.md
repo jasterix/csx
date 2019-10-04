@@ -1,5 +1,13 @@
-# CSX JavaScript Track
+# CSX JavaScript Curriculum
 ### <em>Working through the [CSX](https://csx.codesmith.io/home) curriculum</em>
+
+About CSX: CSX takes you under-the-hood of JavaScript from beginner to advanced concepts
+Goals:
+- Understand JavaScript and coding in a deeper way - the runtime, execution contexts, closures, higher order functions, the call stack and more
+- Become autonomous problem solvers not just tutorial followers
+- Become sophisticated communicators of our code through pair-programming. We will learn to code as part of a team
+
+<hr>
 
 ### Functions and Execution Context (completed)
 Goals: 
@@ -17,6 +25,8 @@ Goals:
 - [x] wereAwesome
 - [x] disemvowel
 - [x] arrayBuilder
+
+<hr>
 
 ### Closure, Scope & Execution Context (wip)
 Goals: 
